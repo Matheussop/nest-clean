@@ -1,0 +1,12 @@
+node_modules
+dist
+build
+data
+coverage
+.git
+.github
+.vscode
+.eslintrc.json
+.prettierrc.json
+.prettierignore
+.prettierignore
