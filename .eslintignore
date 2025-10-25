@@ -10,3 +10,4 @@ coverage
 .prettierrc.json
 .prettierignore
 .prettierignore
+generated/prisma

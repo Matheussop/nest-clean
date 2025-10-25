@@ -7,6 +7,9 @@ data
 # Environment variables
 .env 
 
+# Prisma
+/generated/prisma
+
 # Logs
 logs
 *.log
