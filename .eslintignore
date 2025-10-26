@@ -6,7 +6,6 @@ coverage
 .git
 .github
 .vscode
-.eslintrc.json
 .prettierrc.json
 .prettierignore
 .prettierignore
